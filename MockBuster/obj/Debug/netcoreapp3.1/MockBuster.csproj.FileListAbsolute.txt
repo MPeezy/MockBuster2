@@ -1,0 +1,14 @@
+C:\Users\MPatton5\source\repos\MockBuster\MockBuster\bin\Debug\netcoreapp3.1\MockBuster.exe
+C:\Users\MPatton5\source\repos\MockBuster\MockBuster\bin\Debug\netcoreapp3.1\MockBuster.deps.json
+C:\Users\MPatton5\source\repos\MockBuster\MockBuster\bin\Debug\netcoreapp3.1\MockBuster.runtimeconfig.json
+C:\Users\MPatton5\source\repos\MockBuster\MockBuster\bin\Debug\netcoreapp3.1\MockBuster.runtimeconfig.dev.json
+C:\Users\MPatton5\source\repos\MockBuster\MockBuster\bin\Debug\netcoreapp3.1\MockBuster.dll
+C:\Users\MPatton5\source\repos\MockBuster\MockBuster\bin\Debug\netcoreapp3.1\MockBuster.pdb
+C:\Users\MPatton5\source\repos\MockBuster\MockBuster\obj\Debug\netcoreapp3.1\MockBuster.csproj.AssemblyReference.cache
+C:\Users\MPatton5\source\repos\MockBuster\MockBuster\obj\Debug\netcoreapp3.1\MockBuster.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\MPatton5\source\repos\MockBuster\MockBuster\obj\Debug\netcoreapp3.1\MockBuster.AssemblyInfoInputs.cache
+C:\Users\MPatton5\source\repos\MockBuster\MockBuster\obj\Debug\netcoreapp3.1\MockBuster.AssemblyInfo.cs
+C:\Users\MPatton5\source\repos\MockBuster\MockBuster\obj\Debug\netcoreapp3.1\MockBuster.csproj.CoreCompileInputs.cache
+C:\Users\MPatton5\source\repos\MockBuster\MockBuster\obj\Debug\netcoreapp3.1\MockBuster.dll
+C:\Users\MPatton5\source\repos\MockBuster\MockBuster\obj\Debug\netcoreapp3.1\MockBuster.pdb
+C:\Users\MPatton5\source\repos\MockBuster\MockBuster\obj\Debug\netcoreapp3.1\MockBuster.genruntimeconfig.cache
